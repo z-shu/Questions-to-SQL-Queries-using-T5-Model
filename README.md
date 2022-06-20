@@ -1,4 +1,4 @@
-# Questions-to-SQL-Queries-using-T5-Model
+# Transformation of Natural Language Questions to SQL Queries within the Healthcare Domain Using the T5 Model
 
 ## Overview
 Lately, the task of generating SQL query from questions has received a lot of attention and was applied in a variety of domains. However, there was a significant lack of research papers that focused on the healthcare domain. Hence, the aim of the project was to develop a model that is able to transform natural language questions into SQL queries (Question-to-SQL) within the healthcare domain. The Text-to-Text Transfer Transformer (T5) model was utilised and has been evaluated on the Medical Information Mart for Intensive Care SQL (MIMICSQL) dataset.
